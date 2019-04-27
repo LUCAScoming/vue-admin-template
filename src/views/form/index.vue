@@ -52,14 +52,14 @@ export default {
   data() {
     return {
       form: {
-        name: '',
+        name: '这里是views/form',
         region: '',
-        date1: '',
-        date2: '',
+        date1: '这里是views/form',
+        date2: '这里是views/form',
         delivery: false,
         type: [],
         resource: '',
-        desc: ''
+        desc: '这里是views/form'
       }
     }
   },
